@@ -33,7 +33,7 @@ Deauthentication 공격은 두 가지 모드로 동작합니다:
      - Destination: AP MAC
      - BSSID: AP MAC
 
-[Deauth Attack 동작 영상](media/deauth_attack.mp4)
+[Deauth Attack 동작 영상](media/deauth_attack.gif)
 
 ### 2. Authentication 공격
 ![Auth Attack](media/auth.png)
@@ -47,7 +47,7 @@ Authentication 공격은 지정된 Station MAC 주소로 지속적인 인증 요
   - Destination: AP MAC
   - BSSID: AP MAC
 
-[Auth Attack 동작 영상](media/auth_attack.mp4)
+[Auth Attack 동작 영상](media/auth_attack.gif)
 
 ## 사용법
 
